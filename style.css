@@ -1,0 +1,69 @@
+@charset "UTF-8";
+
+body {
+  height: auto;
+  background-color: 	#D4D4D6;
+}
+
+div#center {
+width: 500px;
+height: auto;
+text-align: left;
+  margin: auto;
+}
+
+div#self {
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+div#T-info {
+  margin-bottom: 50px;
+}
+
+h1 {
+  text-align: center;
+  width: auto;
+}
+
+h2 {
+  width: 35%;
+  text-align: center;
+  background-color: #333;
+  color: #fff;
+}
+
+table {
+  width: 100%;
+  height: auto;
+  clear: both;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  border-collapse: collapse;
+}
+
+/* th {
+  background-color: #333;
+  color: #fff;
+} */
+
+th, td {
+  border: 3px solid black;
+  padding: 5px;
+  text-align: center;
+  background-color: #ffffffbe;
+}
+
+td {
+  padding: 10px;
+}
+
+img#NAS_p {
+  width: auto;
+  height: 200px;
+}
+
+.timeline {
+  max-width: 100%;
+  padding: 10px;
+}
